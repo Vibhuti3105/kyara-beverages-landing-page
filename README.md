@@ -57,6 +57,18 @@ No server setup or internet required (except for font/icons).
 
 ![Kyara Preview](./image/kyaralogo.jpg)
 
+### 🖼️ Home Page
+![Home Page](screenshots/home.png)
+
+### 🖼️ About Section
+![About Section](screenshots/about.png)
+
+### 🖼️ Gallery or Features Section
+![Gallery Section](screenshots/gallery.png)
+
+### 🖼️ Contact or Footer Section
+![Contact Section](screenshots/contact.png)
+
 ---
 
 ## 🌐 Live Demo
