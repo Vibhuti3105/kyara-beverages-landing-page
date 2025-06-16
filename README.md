@@ -59,3 +59,12 @@ No server setup or internet required (except for font/icons).
 
 ---
 
+## 🌐 Live Demo
+
+You can view the live version of this landing page here:
+
+🔗 **[Kyara Beverages GitHub Pages](https://vibhuti3105.github.io/kyara-beverages-landing-page/)**
+
+---
+
+
