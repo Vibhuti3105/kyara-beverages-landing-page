@@ -55,7 +55,7 @@ No server setup or internet required (except for font/icons).
 
 ## 📸 Preview
 
-![Kyara Preview](./images/kyaralogo.jpg)
+![Kyara Preview](./image/kyaralogo.jpg)
 
 ---
 
