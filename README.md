@@ -55,11 +55,7 @@ No server setup or internet required (except for font/icons).
 
 ## 📸 Preview
 
-![Kyara Preview](https://vibhuti3105.github.io/kyara-beverages-landing-page/)
-
-
---./image/kyaralogo.jpg--
+![Kyara Preview](./image/kyaralogo.jpg)
 
 ---
 
-Feel free to customize this site for your own beverage or product brand!
