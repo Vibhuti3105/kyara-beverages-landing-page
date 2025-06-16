@@ -15,6 +15,11 @@ kyara-beverages-landing-page/
 │   ├── berry bliss.jpg
 │   ├── tropicaltwist.jpeg
 │   └── citrusSunrise.jpg
+├── screenshots/
+│   ├── 1.home.png
+│   ├── 2.about.png
+│   ├── 3.drinks.png
+│   └── 4.contact.png
 └── README.md
 
 
@@ -58,16 +63,16 @@ No server setup or internet required (except for font/icons).
 ![Kyara Preview](./image/kyaralogo.jpg)
 
 ### 🖼️ Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/1.home.png)
 
 ### 🖼️ About Section
-![About Section](screenshots/about.png)
+![About Section](screenshots/2.about.png)
 
 ### 🖼️ Gallery or Features Section
-![Gallery Section](screenshots/gallery.png)
+![Gallery Section](screenshots/3.drinks.png)
 
 ### 🖼️ Contact or Footer Section
-![Contact Section](screenshots/contact.png)
+![Contact Section](screenshots/4.contact.png)
 
 ---
 
